@@ -3,7 +3,7 @@ This repo is a test app, that was built using Flutter and Supabase. It was based
 The app is going to register users and show all added information, if email and password are correct.
 
 ##Project set up: 
-- Install [flutter](https://docs.flutter.dev/get-started/install)
+- Install [Flutter](https://docs.flutter.dev/get-started/install)
 - Set up [Supabase locally](https://supabase.com/docs/guides/local-development);
 - Create table(clients) with the following fields: name, surname, phone, city, country.
 
@@ -18,4 +18,4 @@ flutter run
 Flutter run -d web-server --web-hostname localhost --web-port 3000
 ```
 
-- In order to launch Android, use [Android Studio](https://developer.android.com/training/basics/firstapp/running-app)
+- In order to launch on Android, use [Android Studio](https://developer.android.com/training/basics/firstapp/running-app)
