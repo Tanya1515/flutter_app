@@ -17,7 +17,5 @@ flutter run
 ```
 flutter run -d web-server --web-hostname localhost --web-port 3000
 ```
-
-- In order to launch on Android, use [Android Studio](https://developer.android.com/training/basics/firstapp/running-app)
-
 [
+- In order to launch on Android, use [Android Studio](https://developer.android.com/training/basics/firstapp/running-app)
