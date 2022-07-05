@@ -8,11 +8,10 @@ The app is going to register users and show all added information, if email and 
 ## Start the application: 
 - Run the following command, then choose a platform:
 ```
-flutter run
+flutter runhttp://localhost:3000
 ```
 - Or for web, run the following command to launch it on localhost:3000:
 ```
 flutter run -d web-server --web-hostname localhost --web-port 3000
 ```
-- In order to launch on Android, use [Android Studio](https://developer.android.com/training/basics/firstapp/running-app)
-[
+- In order to launch on Android, use [Android Studio](https://developer.android.com/training/basics/firstapp/running-app).
